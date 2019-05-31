@@ -1,0 +1,17 @@
+{
+    "cmake.autoRestartBuild": true,
+    "cmake.configureOnOpen": true,
+    "cmake.buildBeforeRun": true,
+    "cmake.configureSettings": {
+        // Nisim: Use with Ninja only for IntelliSense. Needs Windows SDK.
+        "CMAKE_EXPORT_COMPILE_COMMANDS": true,
+        // Nisim: pdb concurrency workaround for using MSVC with Ninja.
+        "CMAKE_CXX_FLAGS": "/FS",
+        "BUILD_TESTING": true
+    },
+    "cmake.generator": "Ninja",
+    // "cmake.generator": "Visual Studio 14 2015 Win64",
+    "cmake.clearOutputBeforeBuild": true,
+    // "cmake.loggingLevel": "debug",
+    "cmake.buildDirectory": "${workspaceRoot}/build/${buildType}"
+}
