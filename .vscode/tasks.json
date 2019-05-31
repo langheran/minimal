@@ -11,7 +11,7 @@
                 "cwd": "${workspaceFolder}\\build\\Debug",
                 "env": {
                     "vcvarsall": "\"C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\vcvarsall.bat\" x64",
-                    "INCLUDE": "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\INCLUDE;C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\ATLMFC\\INCLUDE;C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.15063.0\\ucrt;C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\include\\um;C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.15063.0\\shared;C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.15063.0\\um;C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.15063.0\\winrt;" // On a cmd.exe window run `vcvarsall x64` then copy the output from `ècho %INCLUDE%` in here.
+                    "INCLUDE": "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\INCLUDE;C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\ATLMFC\\INCLUDE;C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.15063.0\\ucrt;C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\include\\um;C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.15063.0\\shared;C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.15063.0\\um;C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.15063.0\\winrt;" // On a cmd.exe window run `vcvarsall x64` then copy the output from `echo %INCLUDE%` in here.
                 }
             },
             "group": {
