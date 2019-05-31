@@ -6,7 +6,7 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "cmake.exe --build c:/Users/langh/Desktop/minimal/build/Debug --config Debug --target all -- -j 6",
+            "command": "cmake.exe --build . --config Debug --target all -- -j 6",
             "options": {
                 "cwd": "${workspaceFolder}\\build\\Debug",
                 "env": {
