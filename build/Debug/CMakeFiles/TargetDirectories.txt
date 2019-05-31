@@ -1,0 +1,3 @@
+C:/Users/langh/Desktop/minimal/build/Debug/CMakeFiles/minimal.dir
+C:/Users/langh/Desktop/minimal/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/langh/Desktop/minimal/build/Debug/CMakeFiles/rebuild_cache.dir

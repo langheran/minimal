@@ -1,0 +1,5 @@
+# ninja log v5
+1	639	5810458263559308	CMakeFiles/minimal.dir/minimal.cpp.obj	baec844178f276bc
+639	1176	5810458268157229	minimal.exe	50b91c6e41b16046
+1	778	5810458644166682	CMakeFiles/minimal.dir/minimal.cpp.obj	baec844178f276bc
+779	1073	5810458646526670	minimal.exe	50b91c6e41b16046
