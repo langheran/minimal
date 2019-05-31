@@ -16,3 +16,9 @@
 2. Install [Build Tools for Visual Studio](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017).
 3. Install Ninja `choco install ninja`.
 3. Add windows environment `PATH` references.
+
+## Some hard-earned tips
+
+1. MSVC is the best generator for CUDA. Others like gcc and clang are not fully supported.
+2. `/FS` flag is required when building using Ninja generator and MSVC.
+3. This is the solution that requires less hard-drive of all. Installing VS2017 requires at least 20GB.
