@@ -1,7 +1,0 @@
-[
-{
-  "directory": "c:/Users/langh/Desktop/minimal/build/Debug",
-  "command": "C:\\PROGRA~2\\MICROS~1.0\\VC\\bin\\amd64\\cl.exe  /nologo /TP   /FS /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\minimal.dir\\minimal.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\langh\\Desktop\\minimal\\minimal.cpp",
-  "file": "C:/Users/langh/Desktop/minimal/minimal.cpp"
-}
-]
