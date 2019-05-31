@@ -4,9 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "AAA";
-    cout << "BBB";
-    for (int i = 10; i > 0; i--)
-        cout << "DDD";
+    cout << "Minimal";
+    cin.get();
     return 0;
 }
