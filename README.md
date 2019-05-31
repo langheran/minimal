@@ -21,5 +21,5 @@
 
 1. MSVC is the best generator for CUDA. Others like `gcc` and `clang` are not fully supported.
 2. `/FS` flag is required when building using Ninja generator and MSVC to avoid concurrent `pdb`.
-3. This is the solution that requires less hard-drive of all. Installing VS2017 requires at least 20GB.
+3. This is the solution that requires less disk memory of all. Installing VS2017 requires at least 20GB.
 4. `vcvarsall.bat x64` needs to be run before running `cmake --build` or `cl.exe`.
