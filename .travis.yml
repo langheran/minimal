@@ -1,6 +1,12 @@
 branches:
   only:
     - master
-
 os: windows
 language: cpp
+addons:
+  apt:
+    sources:
+      - george-edison55-precise-backports
+    packages:
+      - cmake-data
+      - cmake
