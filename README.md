@@ -1,5 +1,7 @@
 # Minimal CMakeLists C++ VSCode - MSVC+Ninja
 
+ [![Status](https://travis-ci.org/langheran/minimal-vscode-cmake.svg?branch=master)](https://travis-ci.org/langheran/minimal-vscode-cmake)
+
 ## Steps to reproduce minimal functionality
 
 1. Install `ms-vscode.cpptools` extension.
