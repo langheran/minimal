@@ -1,12 +1,9 @@
 branches:
   only:
     - master
-os: windows
 language: cpp
-
 compiler:
   - gcc
-
 before_script:
   # create a build folder for the out-of-source build
   - mkdir build
