@@ -25,4 +25,4 @@
 2. `/FS` flag is required when building using Ninja generator and MSVC to avoid concurrent `pdb`.
 3. This is the solution that requires less disk memory of all. Installing VS2017 requires at least 20GB.
 4. `vcvarsall.bat x64` needs to be run before running `cmake --build` or `cl.exe`.
-5. 
+5. Remove all unnecessary plugins from vscode, they might interfere to setting the `build variant` on the CMake `vector-of-bool.cmake-tools` extension.
