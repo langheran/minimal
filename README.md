@@ -92,3 +92,5 @@ namespace lowercase_identifers
 
 #endif
 ```
+
+Taken from [Stackoverflow](https://stackoverflow.com/questions/3706379/what-is-a-good-naming-convention-for-vars-methods-etc-in-c).
