@@ -29,7 +29,7 @@
 
 ## C++ Boost naming convention
 
-``
+```html
 #ifndef NAMESPACE_NAMES_THEN_PRIMARY_CLASS_OR_FUNCTION_THEN_HPP
 #define NAMESPACE_NAMES_THEN_PRIMARY_CLASS_OR_FUNCTION_THEN_HPP
 
@@ -57,38 +57,38 @@ namespace lowercase_identifers
 
             while (!mostLikeSpaces)
                 single_statements(); // don't need braces
-
+    
             for (size_t i = 0; i < 100; ++i)
             {
                 but_multiple(i);
                 statements_do();
             }             
         }
-
+    
         const complex_type& value() const
         {
             return mValue; // no conflict with value here
         }
-
+    
         void value(const complex_type& pValue)
         {
             mValue = pValue ; // or here
         }
-
+    
     protected:
         // the more public it is, the more important it is,
         // so order: public on top, then protected then private
-
+    
         template <typename Template, typename Parameters>
         void are_upper_camel_case()
         {
             // gman was here                
         }
-
+    
     private:
         complex_type mValue;
     };
 }
 
 #endif
-``
+```
