@@ -93,4 +93,4 @@ namespace lowercase_identifers
 #endif
 ```
 
-Taken from [Stack Overflow](https://stackoverflow.com/questions/3706379/what-is-a-good-naming-convention-for-vars-methods-etc-in-c), recommended by `The C++ Programming Language` by _Bjarne Stroustrup_ creator of C++.
+Taken from [Stack Overflow](https://stackoverflow.com/questions/3706379/what-is-a-good-naming-convention-for-vars-methods-etc-in-c), recommended by _Bjarne Stroustrup_ creator of in the book `The C++ Programming Language`.
