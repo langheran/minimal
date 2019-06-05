@@ -97,7 +97,7 @@ Taken from [Stack Overflow](https://stackoverflow.com/questions/3706379/what-is-
 
 ## Usefull VSCode Keyboard Shortcuts
 
-1. `Shrink/Expand select` `Shift+Alt+RightArrow` selects between brakets.
+1. `Shrink/Expand select` `Shift+Alt+RightArrow` selects between brackets.
 2. `Fold/Unfold` `Control+K,Control+0` `Control+Shift+'` `Control+Shift+¿` expands or collapse region.
 3. `Goto Definition` `F12` `Control+Click` goes to the definition.
 4. `Format Document` `Shift+Alt+f` formats the document.
