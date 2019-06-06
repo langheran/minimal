@@ -1,6 +1,13 @@
-# Minimal CMakeLists C++ VSCode - MSVC+Ninja
+# Minimal CMakeLists C++ VSCode - MSVC+Ninja<!-- omit in toc -->
 
  [![Status](https://travis-ci.org/langheran/minimal-vscode-cmake.svg?branch=master)](https://travis-ci.org/langheran/minimal-vscode-cmake)
+
+## Table of contents <!-- omit in toc -->
+- [Steps to reproduce minimal functionality](#steps-to-reproduce-minimal-functionality)
+- [Steps to install MSVC](#steps-to-install-msvc)
+- [Some hard-earned tips](#some-hard-earned-tips)
+- [C++ Boost naming convention](#c-boost-naming-convention)
+- [Usefull VSCode Keyboard Shortcuts](#usefull-vscode-keyboard-shortcuts)
 
 ## Steps to reproduce minimal functionality
 
