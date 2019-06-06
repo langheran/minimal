@@ -101,4 +101,4 @@ Taken from [Stack Overflow](https://stackoverflow.com/questions/3706379/what-is-
 2. `Fold/Unfold` `Control+K,Control+0` `Control+Shift+'` `Control+Shift+¿` expands or collapse region.
 3. `Goto Definition` `F12` `Control+Click` goes to the definition.
 4. `Format Document` `Shift+Alt+f` formats the document.
-5. ``Switch Header/Source` `Alt+O` switchs between _\<header>_.h and _\<source>_.cpp files.
+5. `Switch Header/Source` `Alt+O` switchs between _\<header>_.h and _\<source>_.cpp files.
