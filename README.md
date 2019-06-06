@@ -8,6 +8,7 @@
 - [Some hard-earned tips](#some-hard-earned-tips)
 - [C++ Boost naming convention](#c-boost-naming-convention)
 - [Usefull VSCode Keyboard Shortcuts](#usefull-vscode-keyboard-shortcuts)
+- [Usual errors](#usual-errors)
 
 ## Steps to reproduce minimal functionality
 
@@ -112,3 +113,7 @@ Taken from [Stack Overflow](https://stackoverflow.com/questions/3706379/what-is-
 5. `Back` `Alt+LeftArrow` back position.
 6. `Control+K,Control+S` opens keyboard shortcuts.
 7. `Control+K,Control+R` [Opens Keyboard Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+## Usual errors
+
+1. `unresolved externals` signature between header and source files does not match or `extern` variable in the header file no set in the source file.
