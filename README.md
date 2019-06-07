@@ -9,6 +9,7 @@
 - [C++ Boost naming convention](#c-boost-naming-convention)
 - [Usefull VSCode Keyboard Shortcuts](#usefull-vscode-keyboard-shortcuts)
 - [Usual errors](#usual-errors)
+- [Useful questions](#useful-questions)
 
 ## Steps to reproduce minimal functionality
 
@@ -118,3 +119,7 @@ Taken from [Stack Overflow](https://stackoverflow.com/questions/3706379/what-is-
 ## Usual errors
 
 1. `unresolved externals` signature between header and source files does not match or `extern` variable in the header file no set in the source file.
+
+## Useful questions
+
+1. Why there is not a single vscode extension to save or group breakpoints?
