@@ -8,6 +8,7 @@
 - [Some hard-earned tips](#some-hard-earned-tips)
 - [C++ Boost naming convention](#c-boost-naming-convention)
 - [Usefull VSCode Keyboard Shortcuts](#usefull-vscode-keyboard-shortcuts)
+- [Personal Keyboard Shortcuts](#personal-keyboard-shortcuts)
 - [Usual errors](#usual-errors)
 - [Useful questions](#useful-questions)
 
@@ -115,6 +116,12 @@ Taken from [Stack Overflow](https://stackoverflow.com/questions/3706379/what-is-
 5. `Back` `Alt+LeftArrow` back position.
 6. `Control+K,Control+S` opens keyboard shortcuts.
 7. `Control+K,Control+R` [Opens Keyboard Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+   
+## Personal Keyboard Shortcuts
+
+1. `Control+Windows+Alt+k` view bookmarks explorer.
+2. `Control+Alt+k` toggle bookmark.
+3. `Control+Alt+(j|l)` previous/next bookmark.
 
 ## Usual errors
 
