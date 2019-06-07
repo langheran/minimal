@@ -113,17 +113,18 @@ Taken from [Stack Overflow](https://stackoverflow.com/questions/3706379/what-is-
 3. `Goto Definition` `F12` `Control+Click` goes to the definition.
 4. `Format Document` `Shift+Alt+f` formats the document.
 5. `Switch Header/Source` `Alt+O` switchs between _\<header>_.h and _\<source>_.cpp files.
-6. `Control+Shift+m` Open problems.
-7. `Control+Shift+d` Open debug.
-8. `Back` `Alt+LeftArrow` back position.
-9. `Control+K,Control+S` opens keyboard shortcuts.
-10. `Control+K,Control+R` [Opens Keyboard Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+6. `Back` `Alt+LeftArrow` back position.
+7. `Control+Shift+M` Open problems.
+8. `Control+Shift+D` Open debug.
+9. `Control+ñ` Open terminal.
+10. `Control+K,Control+S` opens keyboard shortcuts.
+11. `Control+K,Control+R` [Opens Keyboard Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
    
 ## Personal Keyboard Shortcuts
 
-1. `Control+Windows+Alt+k` view bookmarks explorer.
-2. `Control+Alt+k` toggle bookmark.
-3. `Control+Alt+(j|l)` previous/next bookmark.
+1. `Control+Windows+Alt+K` view bookmarks explorer.
+2. `Control+Alt+K` toggle bookmark.
+3. `Control+Alt+(J|L)` previous/next bookmark.
 
 ## Usual errors
 
