@@ -9,7 +9,7 @@ endif()
 project(minimal LANGUAGES CXX)
 
 if(MSVC)
-	set(CMAKE_CXX_FLAGS "/FS /EHsc /FC") # No pdb concurrency, no warnings, full paths for $msCompile problemMatcher.
+	set(CMAKE_CXX_FLAGS "/FS /EHsc") # No pdb concurrency, no warnings, /FC stands for full paths for $msCompile problemMatcher.
 endif()
 
 add_executable(minimal minimal.cpp)
