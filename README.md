@@ -34,7 +34,7 @@
 3. This is the solution that requires less disk memory of all. Installing VS2017 requires at least 20GB.
 4. `vcvarsall.bat x64` needs to be run before running `cmake --build` or `cl.exe`.
 5. Remove all unnecessary plugins from vscode, they might interfere to setting the `build variant` on the CMake `vector-of-bool.cmake-tools` extension.
-6. If you require to install an external library use `ninja install` to install it after building it. Then use `find_package(_<library>_ REQUIRED)` in CMakeLists.txt before `TARGET_LINK_LIBRARIES(${target_name} _<namepace>_::_<library>_ )`
+6. If you require to install an external library use `ninja install` to install it after building it in the same folder. Then use `find_package(library REQUIRED)` in CMakeLists.txt before `TARGET_LINK_LIBRARIES(${target_name} namepace::library)`.
 
 ## C++ Boost naming convention
 
