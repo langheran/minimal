@@ -113,9 +113,11 @@ Taken from [Stack Overflow](https://stackoverflow.com/questions/3706379/what-is-
 3. `Goto Definition` `F12` `Control+Click` goes to the definition.
 4. `Format Document` `Shift+Alt+f` formats the document.
 5. `Switch Header/Source` `Alt+O` switchs between _\<header>_.h and _\<source>_.cpp files.
-5. `Back` `Alt+LeftArrow` back position.
-6. `Control+K,Control+S` opens keyboard shortcuts.
-7. `Control+K,Control+R` [Opens Keyboard Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+6. `Control+Shift+m` Open problems.
+7. `Control+Shift+d` Open debug.
+8. `Back` `Alt+LeftArrow` back position.
+9. `Control+K,Control+S` opens keyboard shortcuts.
+10. `Control+K,Control+R` [Opens Keyboard Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
    
 ## Personal Keyboard Shortcuts
 
