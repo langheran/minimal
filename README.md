@@ -25,7 +25,7 @@
 ## Steps to install MSVC
 
 1. Install [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/sdk-archive). Required for _Ninja_.
-2. Install [Build Tools for Visual Studio](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017).
+2. Install [Build Tools for Visual Studio](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017). For vc140 (2015) install this [one](https://www.microsoft.com/es-mx/download/details.aspx?id=48159).
 3. Install Ninja `choco install ninja`.
 3. Add windows environment `PATH` references.
 
@@ -116,7 +116,7 @@ Taken from [Stack Overflow](https://stackoverflow.com/questions/3706379/what-is-
 6. `Back` `Alt+LeftArrow` back position.
 7. `Control+Shift+M` Open problems.
 8. `Control+Shift+D` Open debug.
-9. `Control+ñ` Open terminal.
+9. `Control+ï¿½` Open terminal.
 10. `Control+K,Control+S` opens keyboard shortcuts.
 11. `Control+K,Control+R` [Opens Keyboard Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
    
