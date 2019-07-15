@@ -25,9 +25,9 @@
 ## Steps to install MSVC
 
 1. Install [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/sdk-archive). Required for _Ninja_.
-2. Install [Build Tools for Visual Studio](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017). For vc140 (2015) install this [one](https://www.microsoft.com/es-mx/download/details.aspx?id=48159).
+2. Install [Build Tools for Visual Studio](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017). For vc140 (2015) install [Visual C++ Build Tools](https://visualstudio.microsoft.com/vs/older-downloads/) or from [here](http://download.microsoft.com/download/5/F/7/5F7ACAEB-8363-451F-9425-68A90F98B238/visualcppbuildtools_full.exe).
 3. Install Ninja `choco install ninja`.
-3. Add windows environment `PATH` references.
+4. Add windows environment `PATH` references.
 
 ## Some hard-earned tips
 
